@@ -17,7 +17,7 @@ FROM tomcat:10.1.14-jdk17
 
 # Set metadata for the image
 LABEL author="Akin"
-LABEL project="jendarey-voting-two-project"
+LABEL project="jendarey-voting-two-project."
 
 # Remove the default Tomcat applications
 RUN rm -rf /usr/local/tomcat/webapps/*
