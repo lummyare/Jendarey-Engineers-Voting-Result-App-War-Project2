@@ -70,7 +70,7 @@
     </distributionManagement>
     
     <build>
-        <finalName>vote</finalName>
+        <finalName>votingapplication</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
