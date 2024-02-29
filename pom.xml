@@ -14,7 +14,7 @@
     <artifactId>voting-result-app-two</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
-    <name>voting-result-app1</name>
+    <name>voting-result-application</name>
     <description>Jendarey Engineer's Voting-Result-App Project</description>
 
     <properties>
