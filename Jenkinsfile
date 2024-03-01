@@ -63,7 +63,7 @@ pipeline {
         stage('6-UploadArtifacts') {
             steps {
                 echo 'Jenkins is configuring Nexus authentication'
-                sh 'mvn deploy'
+                // sh 'mvn deploy'
                 echo 'Jenkins uploaded Artifacts to Nexus'
 
             } 
